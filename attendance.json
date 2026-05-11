@@ -3,6 +3,33 @@
     "id": "be43da35-97fb-4054-8d5e-a854098915fc",
     "fullName": "Oscar Senger",
     "email": "josh_okuneva94@gmail.com",
+    "date": "2026-05-05",
+    "status": "Absent"
+  },
+  {
+    "id": "be43da35-97fb-4054-8d5e-a854098915fc",
+    "fullName": "Oscar Senger",
+    "email": "josh_okuneva94@gmail.com",
+    "date": "2026-05-06",
+    "status": "Absent"
+  },
+  {
+    "id": "be43da35-97fb-4054-8d5e-a854098915fc",
+    "fullName": "Oscar Senger",
+    "email": "josh_okuneva94@gmail.com",
+    "date": "2026-05-07",
+    "status": "Absent"
+  },{
+    "id": "be43da35-97fb-4054-8d5e-a854098915fc",
+    "fullName": "Oscar Senger",
+    "email": "josh_okuneva94@gmail.com",
+    "date": "2026-05-08",
+    "status": "Absent"
+  },
+  {
+    "id": "be43da35-97fb-4054-8d5e-a854098915fc",
+    "fullName": "Oscar Senger",
+    "email": "josh_okuneva94@gmail.com",
     "date": "2026-05-09",
     "status": "Absent"
   },
@@ -24,7 +51,28 @@
     "id": "5c829424-6066-41e3-909d-49f7ef8f9446",
     "fullName": "Cathy Tromp",
     "email": "karelle_skiles57@hotmail.com",
+    "date": "2026-05-08",
+    "status": "Absent"
+  },
+  {
+    "id": "5c829424-6066-41e3-909d-49f7ef8f9446",
+    "fullName": "Cathy Tromp",
+    "email": "karelle_skiles57@hotmail.com",
     "date": "2026-05-09",
+    "status": "Absent"
+  },
+  {
+    "id": "5c829424-6066-41e3-909d-49f7ef8f9446",
+    "fullName": "Cathy Tromp",
+    "email": "karelle_skiles57@hotmail.com",
+    "date": "2026-05-10",
+    "status": "Absent"
+  },
+  {
+    "id": "5c829424-6066-41e3-909d-49f7ef8f9446",
+    "fullName": "Cathy Tromp",
+    "email": "karelle_skiles57@hotmail.com",
+    "date": "2026-05-11",
     "status": "Absent"
   },
   {
@@ -49,6 +97,13 @@
     "status": "Absent"
   },
   {
+    "id": "96f91ee7-dea1-4900-b0b6-8193ac70e606",
+    "fullName": "Ricky Watsica",
+    "email": "luciano.bauch25@yahoo.com",
+    "date": "2026-05-11",
+    "status": "Present"
+  },
+  {
     "id": "812ce383-13ff-4783-9572-2e8d12165bdd",
     "fullName": "Russell Weissnat",
     "email": "antoinette_koss75@yahoo.com",
@@ -60,6 +115,27 @@
     "fullName": "Citlalli Corwin",
     "email": "rodger45@hotmail.com",
     "date": "2026-05-10",
+    "status": "Late"
+  },
+  {
+    "id": "683b8076-ff50-40f8-92a4-0bdd4cc005ff",
+    "fullName": "Citlalli Corwin",
+    "email": "rodger45@hotmail.com",
+    "date": "2026-05-11",
+    "status": "Late"
+  },
+  {
+    "id": "683b8076-ff50-40f8-92a4-0bdd4cc005ff",
+    "fullName": "Citlalli Corwin",
+    "email": "rodger45@hotmail.com",
+    "date": "2026-05-06",
+    "status": "Late"
+  },
+  {
+    "id": "683b8076-ff50-40f8-92a4-0bdd4cc005ff",
+    "fullName": "Citlalli Corwin",
+    "email": "rodger45@hotmail.com",
+    "date": "2026-05-07",
     "status": "Late"
   },
   {
